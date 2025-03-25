@@ -1,0 +1,25 @@
+.Form {
+    display: grid;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+    background-color: #b1adad;
+    border-radius: 8px;
+    width: 600px;
+    margin: 0 auto;
+  }
+  
+  label {
+    font-weight: bold;
+    color: #000;
+  }
+ 
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+
+  
